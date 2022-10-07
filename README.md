@@ -1,3 +1,4 @@
+NOTE: Answers to questions below were included within the jupyter lab notebook as comments in their own cells.
 # Myopia Clusters
 
 In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
